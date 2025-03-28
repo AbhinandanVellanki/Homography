@@ -26,7 +26,7 @@
 ![Pano1 Left](data/pano_1_left.jpeg)
 ![Pano1 Left](data/pano_1_right.jpeg)
 
-#### After Stitching
+#### After Stitching: Example 1
 
 ![Pano1](result/Pano%201.jpeg)
 
@@ -35,6 +35,6 @@
 ![Pano2 Left](data/pano_2_left.jpg)
 ![Pano2 Left](data/pano_2_right.jpg)
 
-#### After Stitching
+#### After Stitching: Example 2
 
 ![Pano1](result/Pano%202.jpeg)
